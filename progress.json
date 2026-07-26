@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
   "datasetType": "conversation-simulation-v1",
-  "completedLessons": 35,
+  "completedLessons": 36,
   "targetLessons": 50,
-  "currentLesson": 36,
+  "currentLesson": 37,
   "status": "Production",
   "lessons": {
     "lesson01": "completed",
@@ -41,7 +41,7 @@
     "lesson33": "completed",
     "lesson34": "completed",
     "lesson35": "completed",
-    "lesson36": "pending",
+    "lesson36": "completed",
     "lesson37": "pending",
     "lesson38": "pending",
     "lesson39": "pending",
